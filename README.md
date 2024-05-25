@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps.
 #### Installation
 1. Clone the repo
    ```sh
--   git clone https://github.com/your_username/PIZDESPARTYBOT.git
+-   git clone https://github.com/kiotomurau/PIZDESPARTYBOT.git
 
 #### Usage
 2. To start the bot, run the following command:
