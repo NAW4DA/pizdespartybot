@@ -1,1 +1,4 @@
-# pizdespartybot
+# ⚡️ PIZDESPARTYBOT
+Created for ORGANIZATION OF PIZDESPARTY [KZ KRG]
+.dev by me and Lemonacho
+# ⚡️ PIZDESPARTYBOT
