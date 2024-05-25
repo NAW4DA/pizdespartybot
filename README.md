@@ -12,7 +12,7 @@ Welcome to the official repository of **PIZDESPARTYBOT**, created for the **ORGA
 - [Contact](#contact)
 
 ### 📝 About the Project
-**PIZDESPARTYBOT** is designed to enhance and automate various tasks for the ORGANIZATION OF PIZDESPARTY. Our goal is to provide a seamless and efficient bot to handle party-related activities and more.
+**PIZDESPARTYBOT** is designed to enhance and automate various tasks for the ORGANIZATION OF PIZDESPARTY in Karaganda. Our goal is to provide a seamless and efficient bot to handle party-related activities, foster connections, and more.
 
 ### ✨ Features
 - **Automated Party Management**: Schedule, organize, and manage parties with ease.
@@ -31,12 +31,12 @@ To get a local copy up and running, follow these simple steps.
 #### Installation
 1. Clone the repo
    ```sh
--   git clone https://github.com/kiotomurau/PIZDESPARTYBOT.git
+   git clone https://github.com/kiotomurau/PIZDESPARTYBOT.git
 
 #### Usage
 2. To start the bot, run the following command:
    ```sh
--   npm start
+   npm start
 
 ### 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -51,6 +51,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 📧 Contact
-**PIZDESPARTYBOT** - [Your Email](mailto:unknownusernxme@outlook.com)
+**PIZDESPARTYBOT** - [unknownusernxme@outlook.com]
 
 Project Link: [https://github.com/kiotomurau/PIZDESPARTYBOT](https://github.com/kiotomurau/PIZDESPARTYBOT)
